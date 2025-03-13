@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dustin\\OneDrive\\Documents\\demo_slot_machine\\demo_slot_machine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35C917F9-4E36-4BC9-BE90-E672CDF0ABE8}|demo_slot_machine\\demo_slot_machine.pyproj|C:\\Users\\dustin\\OneDrive\\Documents\\demo_slot_machine\\demo_slot_machine\\demo_slot_machine\\demo_slot_machine.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{35C917F9-4E36-4BC9-BE90-E672CDF0ABE8}|demo_slot_machine\\demo_slot_machine.pyproj|solutionrelative:demo_slot_machine\\demo_slot_machine.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo_slot_machine.py",
+              "DocumentMoniker": "C:\\Users\\dustin\\OneDrive\\Documents\\demo_slot_machine\\demo_slot_machine\\demo_slot_machine\\demo_slot_machine.py",
+              "RelativeDocumentMoniker": "demo_slot_machine\\demo_slot_machine.py",
+              "ToolTip": "C:\\Users\\dustin\\OneDrive\\Documents\\demo_slot_machine\\demo_slot_machine\\demo_slot_machine\\demo_slot_machine.py",
+              "RelativeToolTip": "demo_slot_machine\\demo_slot_machine.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-13T13:53:30.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
